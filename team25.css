@@ -1,15 +1,30 @@
 
 body {
     max-width:800px;
+    font-family:arial;
     background:cornsilk;
 }
 
 h1 {
+    
+    text-align:center;
+    padding-top:15px;
+    padding-bottom:15px;
+    margin:45px 250px 40px 75px;
+    box-shadow:5px 8px 10px gray;
+    background:ghostwhite;
     border:1px solid black;
-    margin:25px 150px 40px 150px;
 }
 
 ul {
+    padding-top:15px;
+    padding-bottom:15px;
+    margin:25px 250px 40px 75px;
+    box-shadow:5px 8px 10px gray;
+    background:ghostwhite;
     border:1px solid black;
-    margin:25px 150px 40px 150px;
+}
+
+li {
+    padding-bottom: 10px;
 }
